@@ -1,0 +1,15 @@
+C:\Users\ranistal\OneDrive - Microsoft\Documents\GitHub\DesignPatterns\Singleton\bin\Debug\net7.0\Singleton.exe
+C:\Users\ranistal\OneDrive - Microsoft\Documents\GitHub\DesignPatterns\Singleton\bin\Debug\net7.0\Singleton.deps.json
+C:\Users\ranistal\OneDrive - Microsoft\Documents\GitHub\DesignPatterns\Singleton\bin\Debug\net7.0\Singleton.runtimeconfig.json
+C:\Users\ranistal\OneDrive - Microsoft\Documents\GitHub\DesignPatterns\Singleton\bin\Debug\net7.0\Singleton.dll
+C:\Users\ranistal\OneDrive - Microsoft\Documents\GitHub\DesignPatterns\Singleton\bin\Debug\net7.0\Singleton.pdb
+C:\Users\ranistal\OneDrive - Microsoft\Documents\GitHub\DesignPatterns\Singleton\obj\Debug\net7.0\Singleton.csproj.AssemblyReference.cache
+C:\Users\ranistal\OneDrive - Microsoft\Documents\GitHub\DesignPatterns\Singleton\obj\Debug\net7.0\Singleton.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ranistal\OneDrive - Microsoft\Documents\GitHub\DesignPatterns\Singleton\obj\Debug\net7.0\Singleton.AssemblyInfoInputs.cache
+C:\Users\ranistal\OneDrive - Microsoft\Documents\GitHub\DesignPatterns\Singleton\obj\Debug\net7.0\Singleton.AssemblyInfo.cs
+C:\Users\ranistal\OneDrive - Microsoft\Documents\GitHub\DesignPatterns\Singleton\obj\Debug\net7.0\Singleton.csproj.CoreCompileInputs.cache
+C:\Users\ranistal\OneDrive - Microsoft\Documents\GitHub\DesignPatterns\Singleton\obj\Debug\net7.0\Singleton.dll
+C:\Users\ranistal\OneDrive - Microsoft\Documents\GitHub\DesignPatterns\Singleton\obj\Debug\net7.0\refint\Singleton.dll
+C:\Users\ranistal\OneDrive - Microsoft\Documents\GitHub\DesignPatterns\Singleton\obj\Debug\net7.0\Singleton.pdb
+C:\Users\ranistal\OneDrive - Microsoft\Documents\GitHub\DesignPatterns\Singleton\obj\Debug\net7.0\Singleton.genruntimeconfig.cache
+C:\Users\ranistal\OneDrive - Microsoft\Documents\GitHub\DesignPatterns\Singleton\obj\Debug\net7.0\ref\Singleton.dll
