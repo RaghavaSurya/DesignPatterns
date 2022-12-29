@@ -1,0 +1,15 @@
+C:\Users\ranistal\OneDrive - Microsoft\Documents\GitHub\DesignPatterns\Factory\obj\Debug\net7.0\Factory.csproj.AssemblyReference.cache
+C:\Users\ranistal\OneDrive - Microsoft\Documents\GitHub\DesignPatterns\Factory\obj\Debug\net7.0\Factory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ranistal\OneDrive - Microsoft\Documents\GitHub\DesignPatterns\Factory\obj\Debug\net7.0\Factory.AssemblyInfoInputs.cache
+C:\Users\ranistal\OneDrive - Microsoft\Documents\GitHub\DesignPatterns\Factory\obj\Debug\net7.0\Factory.AssemblyInfo.cs
+C:\Users\ranistal\OneDrive - Microsoft\Documents\GitHub\DesignPatterns\Factory\obj\Debug\net7.0\Factory.csproj.CoreCompileInputs.cache
+C:\Users\ranistal\OneDrive - Microsoft\Documents\GitHub\DesignPatterns\Factory\bin\Debug\net7.0\Factory.exe
+C:\Users\ranistal\OneDrive - Microsoft\Documents\GitHub\DesignPatterns\Factory\bin\Debug\net7.0\Factory.deps.json
+C:\Users\ranistal\OneDrive - Microsoft\Documents\GitHub\DesignPatterns\Factory\bin\Debug\net7.0\Factory.runtimeconfig.json
+C:\Users\ranistal\OneDrive - Microsoft\Documents\GitHub\DesignPatterns\Factory\bin\Debug\net7.0\Factory.dll
+C:\Users\ranistal\OneDrive - Microsoft\Documents\GitHub\DesignPatterns\Factory\bin\Debug\net7.0\Factory.pdb
+C:\Users\ranistal\OneDrive - Microsoft\Documents\GitHub\DesignPatterns\Factory\obj\Debug\net7.0\Factory.dll
+C:\Users\ranistal\OneDrive - Microsoft\Documents\GitHub\DesignPatterns\Factory\obj\Debug\net7.0\refint\Factory.dll
+C:\Users\ranistal\OneDrive - Microsoft\Documents\GitHub\DesignPatterns\Factory\obj\Debug\net7.0\Factory.pdb
+C:\Users\ranistal\OneDrive - Microsoft\Documents\GitHub\DesignPatterns\Factory\obj\Debug\net7.0\Factory.genruntimeconfig.cache
+C:\Users\ranistal\OneDrive - Microsoft\Documents\GitHub\DesignPatterns\Factory\obj\Debug\net7.0\ref\Factory.dll
